@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/komissarovrodion21/lab10.svg?branch=master)](https://travis-ci.org/komissarovrodion21/lab10)
-Laboratory work X
+## Laboratory work X
+
 ## Tasks
 
 - [X] 1. Создать публичный репозиторий с названием **lab10** на сервисе **GitHub**
